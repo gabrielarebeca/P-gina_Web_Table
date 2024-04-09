@@ -2,7 +2,7 @@
 
 <h1>Tabela Desafio
   
-![image](https://github.com/gabrielarebeca/P-gina_Web_Table/assets/110422932/3106ebcd-ec27-4e9e-a41f-c66a29614d28)
+![image](https://github.com/gabrielarebeca/P-gina_Web_Table/assets/110422932/0421463d-6f2e-4cec-bd65-b14481111698)
 
 <h1>Tabela 1
   
