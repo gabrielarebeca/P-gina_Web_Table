@@ -1,0 +1,61 @@
+div{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+p{
+    text-align: center;
+    color: #175932;
+}
+
+.lightgreen {
+    background-color: #2F8A57;
+}
+
+.green{
+    background-color: #175932;
+}
+
+.darkgreen{
+    background-color: #19492c;
+}
+
+.softgreen {
+    background-color: #3cb872;
+}
+
+table{
+    width: 600px;
+    height: 400px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2F8A57;
+  }
+
+li {
+    float: left;
+}
+
+li a {
+    font-family: 'Segoe UI';
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+li a:hover {
+    background-color: #175932;
+  }
+
+.atual{
+    background-color: #175932;
+}
