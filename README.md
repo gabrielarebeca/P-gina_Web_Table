@@ -6,7 +6,7 @@
 
 <h1>Tabela 1
   
-![image](https://github.com/gabrielarebeca/P-gina_Web_Table/assets/110422932/96f7ead1-681f-4ffd-a777-6eca9a7b462b)
+![image](https://github.com/gabrielarebeca/P-gina_Web_Table/assets/110422932/d8c8af73-6e19-4eb2-b5e4-1bd296e22688)
 
 <h1>Tabela 2
   
