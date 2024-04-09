@@ -2,11 +2,11 @@
 
 <h1>Tabela Desafio
   
-![image](https://github.com/gabrielarebeca/P-gina_Web_Table/assets/110422932/0421463d-6f2e-4cec-bd65-b14481111698)
+![image](https://github.com/gabrielarebeca/P-gina_Web_Table/assets/110422932/5785886f-8b28-41de-822a-d3c3ae208f3a)
 
 <h1>Tabela 1
   
-![image](https://github.com/gabrielarebeca/P-gina_Web_Table/assets/110422932/d8c8af73-6e19-4eb2-b5e4-1bd296e22688)
+![image](https://github.com/gabrielarebeca/P-gina_Web_Table/assets/110422932/3229fb5c-7876-4610-a303-3bcbc1c5382c)
 
 <h1>Tabela 2
   
